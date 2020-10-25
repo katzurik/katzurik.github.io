@@ -8,6 +8,7 @@ Here are some of the projects that  i have worked on during my M.Sc
 Final project in NLP class, Tel Aviv Univesity 2019. Together with Danielle Hausler.
 An empirical comparison study on two different sentence representations (SentenceBert and Best-as-Service ) which utilize BERT contextualized word representations. We implement several Active learning methods and compare their performances on different types of text Datasets and tasks. Until today (Oct 2020) There almost no papers that deal with "Bertology" and Active learning. Github repository  and the (unpublished) paper
 
+![Image](https://github.com/katzurik/katzurik.github.io/blob/main/tsne_mr.png?raw=true)
 ```markdown
 Syntax highlighted code block
 
