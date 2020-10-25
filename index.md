@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Projects and Research
+Here are some of the projects that  i have worked on during my M.Sc 
 
-You can use the [editor on GitHub](https://github.com/katzurik/katzurik.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Incorporating Active learning Methods with Contextualized Sentence Representations 
+Final project in NLP class, Tel Aviv Univesity 2019. Together with Danielle Hausler.
+An empirical comparison study on two different sentence representations (SentenceBert and Best-as-Service ) which utilize BERT contextualized word representations. We implement several Active learning methods and compare their performances on different types of text Datasets and tasks. Until today (Oct 2020) There almost no papers that deal with "Bertology" and Active learning. Github repository  and the (unpublished) paper
 
 ```markdown
 Syntax highlighted code block
