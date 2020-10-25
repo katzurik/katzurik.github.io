@@ -1,8 +1,16 @@
 title:  <p align="center"> Uri Katz </p>
 logo:  "/images/profilepic.png?raw=true"
 #description: [A short description of your site's purpose]
-description: [M.Sc Statistics student in Tel Aviv univesity]
-linkedin: [urika]
+description: 
+  <p align="center">
+  #<a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/urika/">LinkedIn</a> |
+  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  </p>
+
+
+<p align="justify">
+I am a M.Sc Statistics student in Tel Aviv univesity and Data Scientist @ Aquant 
 theme: jekyll-theme-minimal
 
 
