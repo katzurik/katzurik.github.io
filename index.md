@@ -19,33 +19,7 @@ We have shown that the Besov smoothness increase from layer to layer inside the 
 
 
 ### 3. Snack2Vec - Snack Ingredient Embedding from product food Labels
-Part of the final project in Application in Data Science class, Tel Aviv University 2020. Using the food labels ingredients list of ~ 25K different snacks, I have managed project ingredients of snacks into the "Snack" space. Training a Skip-gram fastText model on the ingredient lists as if they were sentences with sequential context. After assigning a vector for each ingredient I have max/average pool the vectors from each list into a single vector that represents the parent snack. Here is a TSNE plot of snacks from a different category
+Part of the final project in Application in Data Science class, Tel Aviv University 2020. Using the food labels ingredients list of ~ 25K different snacks, I have managed project ingredients of snacks into the "Snack" space. Training a Skip-gram fastText model on the ingredient lists as if they were sentences with sequential context. After assigning a vector for each ingredient I have max/average pool the vectors from each list into a single vector that represents the parent snack. Here is a TSNE plot of snacks from a different category. [Notebook] (https://github.com/katzurik/katzurik.github.io/blob/main/notebooks/Models.ipynb)
 
+![Image](https://github.com/katzurik/katzurik.github.io/blob/main/images/snack2vec.png?raw=true)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katzurik/katzurik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
