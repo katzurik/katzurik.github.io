@@ -15,7 +15,7 @@ Final project in Mathematical foundations of machine learning class, Tel Aviv Un
 We used [this method](https://arxiv.org/abs/1710.03263) to quantify the geometry of the clustering within each layer representation using the Besov index of smoothness.
 We have shown that the Besov smoothness increase from layer to layer inside the model architecture. We have compared different word representations (One-hot-encoding and FastText with/without max pooling) and showed that the Besov smoothness indeed increases as a function of the goodness of representation. 
 
-![Image](https://github.com/katzurik/katzurik.github.io/blob/main/besov.jpeg)
+![Image](https://github.com/katzurik/katzurik.github.io/blob/main/besov.jpeg?raw=true)
 
 
 
