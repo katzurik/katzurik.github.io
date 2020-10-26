@@ -1,5 +1,5 @@
 ## Projects and Research
-Here are some of the projects that  i have worked on during my M.Sc 
+Here are some of the projects that  I have worked on during my M.Sc 
 
 
 
