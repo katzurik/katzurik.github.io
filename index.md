@@ -19,7 +19,7 @@ We have shown that the Besov smoothness increase from layer to layer inside the 
 
 
 ### 3. Snack2Vec - Snack Ingredient Embedding from product food Labels
-Part of the final project in Application in Data Science class, Tel Aviv University 2020. Using the food labels ingredients list of ~ 25K different snacks, I have managed project ingredients of snacks into the "Snack" space. Training a Skip-gram fastText model on the ingredient lists as if they were sentences with sequential context. After assigning a vector for each ingredient I have max/average pool the vectors from each list into a single vector that represents the parent snack. Here is a TSNE plot of snacks from a different category. [Notebook](https://github.com/katzurik/katzurik.github.io/blob/main/notebooks/Models.ipynb)
+Part of the final project in Application in Data Science class, Tel Aviv University 2020. Using the food labels ingredients list of ~ 25K different snacks, I have projected the ingredients of snacks into a "Snack" vectorial space by training a Skip-gram fastText model on the ingredient lists as if they were sentences with sequential context. After assigning a vector for each ingredient I have max/average pool the vectors from each list into a single vector that represents the parent snack. Here is a t-SNE plot of snacks from a different category. [Notebook](https://github.com/katzurik/katzurik.github.io/blob/main/notebooks/Models.ipynb)
 
 ![Image](https://github.com/katzurik/katzurik.github.io/blob/main/images/snack2vec.png?raw=true)
 
